@@ -1,6 +1,6 @@
 # survec
-<img src="https://github.com/cedric-lemaitre-alyotech/survec/blob/master/Icon.png" />
-A tools for monitoring screen(s) from webcams !
+<img src="https://github.com/cedric-lemaitre-alyotech/survec/blob/master/Icon.png" height="60" width="60" />
+A tools for monitoring screen(s) from webcams !<br />
 SURVEC is made with QT5, OpenCV and Tesseract/Leptonica.
 
 <b>Objectives:</b> <br/>
